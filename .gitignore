@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+config.json
+config.json.bad
+config.json.tmp
+*.log
+.instance.lock
+.launcher.sock
+
+.DS_Store
+Thumbs.db
